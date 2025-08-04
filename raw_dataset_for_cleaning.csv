@@ -1,0 +1,11 @@
+ID, Name ,Age ,Email,Join_Date, Salary ,Department
+001, John Doe ,29,john.doe@example.com,2021-05-12,55000, Sales
+002,Jane Smith,,jane_smith@company.com,12-06-2020,60000 ,marketing
+003,Mark Johnson,35,mark.johnson@company.com,2020/07/15,,Marketing
+004,,42,,15-08-2019,58000, Sales
+005,Emily Davis,27,emily.davis@company.com ,2021-03-22,57000, HR
+006,Michael Brown,Thirty,mbrown@company.com,2021-11-01,59000,HR
+007,John Doe ,29,john.doe@example.com,2021-05-12,55000, Sales
+008,David Miller, 31, david.m@company.com,2021.12.01,61000,Finance
+009,Anna Lee,28,annalee[at]company.com,2022-01-10,62000,Finance
+010, , , , , , 
